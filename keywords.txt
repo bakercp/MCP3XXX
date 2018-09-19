@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map For Arduration
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+MCP3XXX_	KEYWORD1
+MCP3002	KEYWORD1
+MCP3004	KEYWORD1
+MCP3008	KEYWORD1
+MCP3202	KEYWORD1
+MCP3204	KEYWORD1
+MCP3208	KEYWORD1
+MCP3304	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+analogRead	KEYWORD2
+analogReadDifferential	KEYWORD2
+numChannels	KEYWORD2
+numBits	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+ADC_ERROR_INVALID_CHANNEL	LITERAL1
+ADC_UNSUPPORTED_CONFIGURATION	LITERAL1
+NUM_BITS	LITERAL1
+BIT_MASK	LITERAL1
+NUM_CHANNELS	LITERAL1
+MAX_SPI_CLOCK_SPEED	LITERAL1
+SPI_TRANSFER_LEGNTH	LITERAL1
