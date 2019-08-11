@@ -53,10 +53,13 @@ See the included examples for further usage options.
 
 Currently the library has been tested with MCP3002 and MCP3008. MCP3004 support is also included because it uses the same SPI command structure as the MCP3008.
 
+### Datasheets
+
+- [MCP3004/3008](http://ww1.microchip.com/downloads/en/devicedoc/21295c.pdf)
+
 ## Changelog
 
 See [CHANGELOG.md](CHANGELOG.md).
-
 
 ## License
 
