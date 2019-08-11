@@ -55,7 +55,11 @@ Currently the library has been tested with MCP3002 and MCP3008. MCP3004 support 
 
 ### Datasheets
 
+- [MCP3002](http://ww1.microchip.com/downloads/en/DeviceDoc/21294E.pdf)
 - [MCP3004/3008](http://ww1.microchip.com/downloads/en/devicedoc/21295c.pdf)
+- [MCP3202](http://ww1.microchip.com/downloads/en/DeviceDoc/21034D.pdf)
+- [MCP3204/3208](http://ww1.microchip.com/downloads/en/DeviceDoc/21298c.pdf)
+- [MCP3302/3304](http://ww1.microchip.com/downloads/en/DeviceDoc/21697e.pdf)
 
 ## Changelog
 
