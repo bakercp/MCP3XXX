@@ -9,7 +9,7 @@ An Arduino Library supporting the MCP3XXX series of ADC SPI chips, including MCP
 
 ## Features
 
-_MCP3XXX_ is a simple library enabling access to the MCP3XXX series of ADC SPI chips. Support for differential and psuedo-differential reads. Supports MCP3002, MCP3004 and MCP3008. Support for 12 and 13 bit chips such as MCP3202, MCP3204, MCP3208 and MCP3304 will be added when they can officially tested.
+_MCP3XXX_ is a simple library enabling access to the MCP3XXX series of ADC SPI chips. Support for differential and psuedo-differential reads. Supports MCP3002, MCP3004 and MCP3008. Support for 12 and 13 bit chips such as MCP3202, MCP3204, MCP3208 and MCP3304 will be added when they can officially tested.  When not reading data, the chip goes into standby / low power mode. On the MCP3004/3008, for example the standby current is only 5 nA.
 
 ## Background
 
