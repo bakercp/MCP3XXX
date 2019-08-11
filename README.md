@@ -1,5 +1,4 @@
-MCP3XXX
-============
+# MCP3XXX
 
 [![Build Status](https://travis-ci.org/bakercp/MCP3XXX.svg?branch=master)](https://travis-ci.org/bakercp/MCP3XXX)
 
