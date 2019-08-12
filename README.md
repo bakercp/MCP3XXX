@@ -42,6 +42,10 @@ void loop()
 }
 ```
 
+## Documentation
+
+See [API Documentation](https://bakercp.github.io/MCP3XXX/).
+
 ## Troubleshooting
 
 If you encounter connection issues, confirm that the maximum sampling frequency you are using is supported by voltage of your board. For example, the aliases `MCP3002`, `MCP3004`, `MCP3008` are defined as:
